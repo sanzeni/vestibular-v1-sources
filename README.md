@@ -23,7 +23,9 @@ The repository includes:
 ## Repository Structure
 
 ├── code/ # Analysis scripts
+
 ├── data/ # Sample data + README with Zenodo download instructions
-├── notebooks/ # Jupyter notebooks with example analyses (optional)
-├── LICENSE # License information (CC-BY 4.0)
+
+├── notebooks/ # Jupyter notebooks with example analyses
+
 └── README.md # This file
