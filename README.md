@@ -22,4 +22,4 @@ The repository includes:
 
 ## Repository Structure
 
-<pre> ``` ├── code/ # Analysis scripts ├── data/ # Sample data + README with Zenodo download instructions ├── notebooks/ # Jupyter notebooks with example analyses └── README.md # This file ``` </pre>
+``` ├── code/ # Analysis scripts ├── data/ # Sample data + README with Zenodo download instructions ├── notebooks/ # Jupyter notebooks with example analyses └── README.md # This file ```
